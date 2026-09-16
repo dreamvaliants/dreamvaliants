@@ -1,67 +1,123 @@
-<h1 align="center">Hi, I'm Yujara 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Admissions+%26+Scholarship+Staff+at+Universitas+Mercu+Buana;Informatics+Student+at+UNDIRA;Building+small+tools+that+make+work+easier" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9B5CFF&height=220&section=header&text=Hi%20There,%20I'm%20Yujara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20admin%20chaos%20into%20clean%20systems%20%F0%9F%9A%80&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/dreamvaliants">
-    <img src="https://komarev.com/ghpvc/?username=dreamvaliants&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5CFF&center=true&vCenter=true&width=700&lines=Admissions+%26+Scholarship+Staff+%40+Universitas+Mercu+Buana;Informatics+Student+%40+UNDIRA;Data+%2B+Automation+%2B+Side+Projects;Turning+repetitive+work+into+small+apps" alt="Typing SVG" />
 
----
+<br/>
 
-### 🧭 About Me
+<img src="https://komarev.com/ghpvc/?username=dreamvaliants&label=Profile%20Views&color=9B5CFF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/📍-Jakarta,%20Indonesia-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓-Teknik%20Informatika-9B5CFF?style=for-the-badge" />
 
-- 🎓 Working at **Biro Penerimaan Mahasiswa Baru (BPMB)**, Universitas Mercu Buana — handling admissions, scholarship programs (including **KIP-K**), and student data
-- 💻 Studying **Teknik Informatika** at **Universitas Dian Nusantara (UNDIRA)**
-- 🌐 My day-to-day work blends **communications, data processing, WordPress/Elementor site management**, and coordinating with a design team
-- 🔨 Off the clock, I like turning repetitive work into small apps and scripts — from admin dashboards to mobile side projects
-- 📫 Reach me via my GitHub profile
+</div>
 
----
+<br/>
 
-### 🚀 Projects I've Worked On
+## 🧭 About Me
 
-| Project | Description |
-|---|---|
-| **FORSIGHT** | A web-based forensic storage integrity tool — React.js frontend, Node.js/Django backend, PostgreSQL, Redis, AWS S3/MinIO |
-| **VoucherGame** | A voucher game app built with React Native and Expo |
-| **PMB Admin Scraper** | Python-based scraping system for pulling and processing data from a university admissions admin panel |
-| **Freshman Kit App** | Planning/PRD for a barcode-based pickup system for new student kits |
+```yaml
+role: Admissions & Scholarship Staff @ BPMB, Universitas Mercu Buana
+study: Teknik Informatika, Universitas Dian Nusantara (UNDIRA)
+focus: student data · scholarship programs (KIP-K) · web management
+side_quests: mobile apps, scraping tools, small automations
+currently: building systems that save people time
+```
 
----
+- 🏢 Handle admissions, **scholarship programs (KIP-K)**, and student data at BPMB
+- 🌐 Manage & maintain the admissions website with WordPress/Elementor
+- 🧑‍💻 Studying Informatics — currently deep in software project management & intelligent systems
+- 🛠️ Enjoy building small tools that automate repetitive admin work
+- ⚡ Fun fact: half my code was written to make my own job easier
 
-### 🛠️ Tech & Tools
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-</p>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🔍 FORSIGHT
+Web-based forensic storage integrity tool.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dreamvaliants&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamvaliants&layout=compact&hide_border=true" />
-</p>
+`React` · `Node.js/Django` · `PostgreSQL` · `Redis` · `AWS S3 / MinIO`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamvaliants&hide_border=true" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🎮 VoucherGame
+Voucher game app built for mobile.
 
-<p align="center"><i>Thanks for stopping by — always open to a good conversation about data, systems, or side projects.</i></p>
+`React Native` · `Expo`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ PMB Admin Scraper
+Python scraper for university admissions admin data.
+
+`Python` · `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎒 Freshman Kit App
+Barcode-based pickup system for new student kits.
+
+`Planning` · `PRD` · `Mobile`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,python,postgres,mysql,redis,aws,wordpress,html,css,js,git,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dreamvaliants&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamvaliants&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamvaliants&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamvaliants&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dreamvaliants&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5CFF,100:2E9EF7&height=100&section=footer" width="100%"/>
+
+<i>Thanks for stopping by — always up for a good conversation about data, systems, or side projects 🚀</i>
+
+</div>
