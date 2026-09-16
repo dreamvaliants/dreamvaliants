@@ -89,21 +89,8 @@ Barcode-based pickup system for new student kits.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dreamvaliants&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamvaliants&layout=compact&theme=radical&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamvaliants&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamvaliants&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dreamvaliants&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
